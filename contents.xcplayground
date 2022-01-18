@@ -4,5 +4,6 @@
         <page name='02-weak'/>
         <page name='03-unowned'/>
         <page name='04-leakChallenge'/>
+        <page name='06-ClosureCapture'/>
     </pages>
 </playground>
