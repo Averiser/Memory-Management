@@ -6,5 +6,6 @@
         <page name='04-leakChallenge'/>
         <page name='06-ClosureCapture'/>
         <page name='07-Breaking Cicles'/>
+        <page name='08-LeakChallenge02'/>
     </pages>
 </playground>
